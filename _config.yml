@@ -4,3 +4,8 @@ description: 记录学习
 
 plugins:
 - jekyll-remote-theme
+
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:title/
