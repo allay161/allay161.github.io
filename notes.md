@@ -6,6 +6,8 @@ permalink: /notes/
 
 # 📚 课程笔记
 
+[🏠 返回首页](/)
+
 这里是我学习各门课程的笔记归档。
 
 {% for subject in site.subjects %}
