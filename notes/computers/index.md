@@ -8,6 +8,8 @@ permalink: /notes/computers/
 
 看书随记。
 
+[📚 返回笔记总览](/notes/) | [🏠 返回首页](/)
+
 ## 笔记列表
 
 {% assign subject_posts = site.posts | where: "subject", "computers" %}
