@@ -33,6 +33,7 @@ pause >nul
 
 git add .
 git commit -m "添加笔记：%title%"
+git pull origin main --rebase
 git push
 
 echo ✅ 上传完成！
